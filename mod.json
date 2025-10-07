@@ -1,0 +1,18 @@
+{
+	"geode": "4.9.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "reidlab.logarithmic_volume",
+	"name": "Logarithmic Volume",
+	"version": "v1.0.0",
+	"developer": "reidlab",
+	"description": "Uses a human-friendly scale for volume",
+	"tags": ["enhancement"],
+	"links": {
+		"source": "https://github.com/reidlabwastaken/logarithmic-volume"
+	}
+}
